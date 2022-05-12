@@ -1,6 +1,6 @@
 
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Antonio José</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="www.linkedin.com/in/antonio-jose-b1a926111/"><i>Antonio José</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Mobile kotlin e Java<a href="https://www.betrybe.com/"></a> e compartilho meu aprendizado nesta página do GitHub <a ></a>
   
   <p align="center">Quanto mais avança a tecnologia, mais respeitado será o Ser que se mantiver Humano. 😉️</h2>
@@ -17,7 +17,8 @@
 
 <br>
 <br>
-  <a href="www.linkedin.com/in/antonio-jose-b1a926111"
+ <h3 align="center">Rede de contato <a href="www.linkedin.com/in/antonio-jose-b1a926111/"><i>Antonio José</i></a></h3>
+  <a href="www.linkedin.com/in/antonio-jose-b1a926111/"
  target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 <div align="center">
