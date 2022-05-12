@@ -18,9 +18,9 @@
 <br>
 <br>
 <div align="center">
- <h5 align="left">Rede de contato </h5>
+ <h5 align="center">Rede de contato </h5>
   <a href="https://www.linkedin.com/in/antonio-jose-b1a926111/" 
- target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="70"></a>
+ target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="50"></a>
 </div>
  
  
