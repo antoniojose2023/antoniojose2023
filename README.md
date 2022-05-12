@@ -18,7 +18,7 @@
 <br>
 <br>
  <h3 align="center">Rede de contato <a href="www.linkedin.com/in/antonio-jose-b1a926111/"><i>Antonio José</i></a></h3>
-  <a href="www.linkedin.com/in/antonio-jose-b1a926111/"
+  <a href="www.linkedin.com/in/antonio-jose-b1a926111/" align="center"
  target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 <div align="center">
