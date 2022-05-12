@@ -3,8 +3,8 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="www.linkedin.com/in/antonio-jose-b1a926111/"><i>Antonio José</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Mobile kotlin e Java<a href="https://www.betrybe.com/"></a> e compartilho meu aprendizado nesta página do GitHub <a ></a>
   
-  <p align="center">Quanto mais avança a tecnologia, mais respeitado será o Ser que se mantiver Humano. 😉️</h2>
-  <p align="center">"Marco Aurélio Ferreira"</h5>>
+  <p align="center">Quanto mais avança a tecnologia, mais respeitado será o Ser que se mantiver Humano. 😉️</p>
+  <p align="center">"Marco Aurélio Ferreira"</p>
 </div>
 
 
@@ -17,8 +17,8 @@
 
 <br>
 <br>
- <h3 align="left">Rede de contato <a href="www.linkedin.com/in/antonio-jose-b1a926111/"></a></h3>
-  <a href="www.linkedin.com/in/antonio-jose-b1a926111/" 
+ <h5 align="left">Rede de contato </h5>
+  <a href="https://www.linkedin.com/in/antonio-jose-b1a926111/" 
  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="70"></a>
 
 <div align="center">
