@@ -3,7 +3,8 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Antonio José</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a ></a><span> 👉🏽️</span>
   
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <p align="center">Quanto mais avança a tecnologia, mais respeitado será o Ser que se mantiver Humano. 😉️</h2>
+  <p align="center">"Marco Aurélio Ferreira"</h5>>
 </div>
 
 
