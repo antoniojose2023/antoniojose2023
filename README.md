@@ -17,10 +17,15 @@
 
 <br>
 <br>
+<div align="center">
  <h5 align="left">Rede de contato </h5>
   <a href="https://www.linkedin.com/in/antonio-jose-b1a926111/" 
  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="70"></a>
-
+</div>
+ 
+ 
+<br>
+<br>
 <div align="center">
   <p>Feito com :heart: e Kotlin/Java.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">antoniojose2023</a></p>
