@@ -17,3 +17,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniojose2023&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
