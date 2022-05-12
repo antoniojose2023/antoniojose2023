@@ -19,7 +19,7 @@
 <br>
  <h3 align="left">Rede de contato <a href="www.linkedin.com/in/antonio-jose-b1a926111/"></a></h3>
   <a href="www.linkedin.com/in/antonio-jose-b1a926111/" 
- target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 
 <div align="center">
   <p>Feito com :heart: e Kotlin/Java.</p>
