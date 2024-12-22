@@ -28,5 +28,5 @@
 <br>
 <div align="center">
   <p>Feito com :heart: e Kotlin/Java.</p>
-  <p>Créditos: <a href="https://github.com/rafaballerini">antoniojose2023</a></p>
+  <p>Créditos: <a href="https://github.com/antoniojose2023/antoniojose2023">antoniojose2023</a></p>
 </div>
